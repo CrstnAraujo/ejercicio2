@@ -1,0 +1,1 @@
+# Edición en rama hotfixes
